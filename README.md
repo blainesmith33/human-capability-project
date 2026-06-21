@@ -2,13 +2,17 @@
 
 ## Mission
 
-**The Human Capability Project (THCP) is an open initiative dedicated to understanding, developing, and strengthening human capability in an increasingly AI-Augmented world.**
+The Human Capability Project (THCP) is an open initiative dedicated to expanding human capability in an increasingly AI-augmented world.
 
-THCP explores how individuals, communities, organizations, institutions, and technology systems can work together to expand human agency, improve decision-making, and create more effective pathways for learning, cooperation, governance, and long-term human flourishing.
+Its purpose is to explore, develop, and share systems, frameworks, infrastructure, and practices that help individuals and institutions become more capable while preserving human agency, accountability, legitimacy, and self-determination.
+
+THCP is built on a simple belief:
+
+> Technology should increase human capability without reducing human responsibility.
 
 ---
 
-## Why THCP Exists
+## The Problem
 
 Humanity is entering a period of unprecedented technological acceleration.
 
@@ -18,25 +22,46 @@ Information is becoming more abundant.
 
 Systems are becoming more complex.
 
-Yet many individuals still struggle to access the knowledge, support, opportunities, and structures necessary to fully realize their potential.
+Yet capability is not distributed equally.
 
-THCP exists to explore a fundamental question:
+Many individuals, communities, organizations, and institutions struggle to access the knowledge, structures, and support necessary to fully realize their potential.
+
+As technology advances, an increasingly important question emerges:
 
 > How can human capability be expanded while preserving human agency, accountability, legitimacy, and self-determination?
 
-The project seeks practical answers through research, governance frameworks, knowledge infrastructure, capability systems, and human-centered approaches to AI.
+The Human Capability Project exists to explore that question.
 
 ---
 
-## Core Beliefs
+## What Human Capability Means
+
+Human capability is the ability of individuals and groups to:
+
+* Learn
+* Understand
+* Adapt
+* Create
+* Cooperate
+* Decide
+* Execute
+* Improve
+
+Capability is not simply intelligence.
+
+It includes knowledge, judgment, governance, coordination, continuity, and the ability to transform intentions into meaningful outcomes.
+
+---
+
+## Core Principles
 
 ### Human Capability Matters
 
-The long-term success of any society depends on the ability of people to learn, adapt, create, cooperate, and contribute.
+The long-term success of any society depends on the ability of people to learn, adapt, cooperate, and contribute.
 
 ### Agency Must Be Preserved
 
-Technology should increase human capability without reducing human agency.
+Technology should strengthen human agency rather than replace it.
 
 ### Governance and Capability Must Evolve Together
 
@@ -48,9 +73,35 @@ Sustainable progress requires both.
 
 ### AI Should Augment Humans
 
-AI can accelerate analysis, coordination, learning, and execution.
+AI can accelerate learning, analysis, coordination, and execution.
 
-Authority, accountability, legitimacy, and responsibility remain human concerns.
+Authority, legitimacy, accountability, and responsibility remain human concerns.
+
+### Transparency Matters
+
+Systems that influence decisions should be understandable, inspectable, and reviewable.
+
+### Continuity Matters
+
+Knowledge, decisions, and lessons should remain available beyond the moment they are created.
+
+---
+
+## How THCP Pursues Its Mission
+
+The Human Capability Project is pursued through a growing ecosystem of projects and initiatives.
+
+Current initiatives include:
+
+### Knowledge Governance Infrastructure (KGI)
+
+Knowledge preservation, governance, traceability, and continuity systems.
+
+### Personal Engineering Intelligence System (PEIS)
+
+Operational planning, execution, evaluation, decision tracking, and continuous improvement systems.
+
+Future initiatives may address additional dimensions of capability development, governance, education, coordination, and human-AI collaboration.
 
 ---
 
@@ -71,77 +122,20 @@ THCP currently explores topics including:
 
 ---
 
-## Current Status
-
-THCP is currently in its foundational stage.
-
-The project is establishing the governance structures, continuity systems, knowledge infrastructure, and operational frameworks necessary to support long-term development.
-
-Current efforts focus on building a durable foundation before expanding into larger research, implementation, and collaboration initiatives.
-
----
-
-## Relationship to blAIne
-
-THCP is part of the broader **blAIne ecosystem**.
-
-```text
-blAIne
-    └── The Human Capability Project (THCP)
-```
-
-Within the ecosystem, THCP serves as the primary initiative focused on human capability, agency, governance, and human-centered AI.
-
----
-
-## Current Repository Contents
-
-This repository currently contains foundational project artifacts, including:
-
-### Project Charter
-
-Defines the mission, scope, and purpose of THCP.
-
-```text
-docs/charters/thcp_project_charter_v1.md
-```
-
-### PPIP Framework Charter
-
-Defines the Personal Project & Infrastructure Portfolio (PPIP) framework and its role within the ecosystem.
-
-```text
-docs/charters/ppip_framework_charter_v1.md
-```
-
-### Governance Rules
-
-Defines project governance, authority boundaries, repository rules, and operational requirements.
-
-```text
-docs/governance/hcp_project_governance_rules_v1.md
-```
-
----
-
 ## Long-Term Vision
 
-THCP aims to become an open platform for exploring, developing, and sharing systems that help individuals and institutions increase capability while maintaining transparency, accountability, and human oversight.
+The long-term vision of THCP is to help create systems that enable people and institutions to become more capable, more resilient, and better able to navigate an increasingly complex world.
 
-The project is intentionally being built in public so that its ideas, frameworks, successes, failures, and lessons learned can be examined, challenged, improved, and shared.
+The objective is not merely technological advancement.
 
----
+The objective is human advancement.
 
-## Contributing
-
-THCP is still in an early stage of development.
-
-Constructive feedback, thoughtful discussion, and collaboration are welcomed as the project continues to evolve.
+Technology is valuable when it helps people learn more effectively, cooperate more successfully, govern more responsibly, and pursue meaningful goals with greater capability and confidence.
 
 ---
 
 ## Status
 
-**Active Development**
+Active development.
 
-Governance, infrastructure, and foundational architecture are currently being established to support future growth.
+The Human Capability Project is currently establishing the governance structures, knowledge systems, and operational foundations required to support long-term growth and future collaboration.
